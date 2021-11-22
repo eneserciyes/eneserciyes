@@ -8,7 +8,7 @@ I am Enes, an undergraduate research assistant at [Koç University Autonomous Vi
 Here are some of the projects I am working on: 
 
 - [WorldOnRails.jl](https://github.com/eneserciyes/world_on_rails.jl) : an unofficial Knet.jl implementaion of "Learning to drive from a world on rails" (ICCV'21 Oral)
-- [SPARK-lib](https://github.com/eneserciyes/SPARK-lib) : a tutorial initially intended for Teknofest Robotaxi but relevant for everyone starting autonomous driving
+- [SPARK-lib](https://github.com/eneserciyes/SPARK-lib) : (starting) a tutorial initially intended for Teknofest Robotaxi but relevant for everyone starting autonomous driving
 - [carlatools](https://github.com/eneserciyes/carlatools) : an extensible CARLA Simulator utility library
 
 🔭 I’m currently working on end-to-end autonomous driving with RL. 
